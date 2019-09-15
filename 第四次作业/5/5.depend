@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1555851989 source:d:\mmmike\作业集合\c++编程作业\第四次作业\5\line.cpp
+	<iostream>
+	<cmath>
+	"Line.h"
+
+1555854748 source:d:\mmmike\作业集合\c++编程作业\第四次作业\5\main.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+
+1555847889 source:d:\mmmike\作业集合\c++编程作业\第四次作业\5\point.cpp
+	<iostream>
+	"Point.h"
+
+1555850430 d:\mmmike\作业集合\c++编程作业\第四次作业\5\point.h
+
+1555852304 d:\mmmike\作业集合\c++编程作业\第四次作业\5\line.h
+	"Point.h"
+
